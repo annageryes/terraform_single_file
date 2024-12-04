@@ -1,0 +1,6 @@
+_pycache__
+venv
+.vscodium
+*.csv
+data
+.env
